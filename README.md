@@ -70,12 +70,12 @@ http://localhost/smart-global-pest-alert-network/
 🔗 Live Demo
 👉 Visit Smart Global Pest Alert Network
 
-📧 Contact
-📩 Email: shubhamdighe45@gmail.com
+## 📧 Contact  
 
-💼 LinkedIn: Linkedin Profile/shubhamdighe
+- 📩 Email: [shubhamdighe45@gmail.com](mailto:youremail@example.com)  
+- 💼 LinkedIn: [Linkedin Profile](https://linkedin.com/in/shubhamdighe)  
+- 🐙 GitHub: [@ShubhamMaster](https://github.com/shubhammaster)  
 
-🐙 GitHub: @ShubhamMaster
 
 
 
